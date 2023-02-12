@@ -15,22 +15,22 @@ url = "https://mastodon.nz"
 
 [[params.social]]
 key = 1
-name = "Pixelfed"
+name = "Pixelfed.nz"
 url = "https://pixelfed.nz"
 
 [[params.social]]
 key = 2
-name = "PeerTube"
+name = "PeerTube.nz"
 url = "https://peertube.nz"
 
 [[params.social]]
 key = 3
-name = "Matrix"
+name = "Mtrx.nz"
 url = "https://mtrx.nz"
 
 [[params.social]]
 key = 4
-name = "Mobilizon"
+name = "OpenEvents.nz"
 url = "https://openevents.nz"
 
 [[params.social]]
