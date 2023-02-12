@@ -5,7 +5,7 @@ theme = 'nightfall'
 
 [params]
 author = "FediServices.nz"
-user = "hello"
+user = "info"
 hostname = "fediservices.nz"
 
 [[params.social]]
