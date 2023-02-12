@@ -36,7 +36,7 @@ url = "https://openevents.nz"
 [[params.social]]
 key = 5
 name = "Stats"
-url = "https://stats.fediservices.nz/public-dashboards/585e294c4aaf492ba1351b7de489363c?orgId=1"
+url = "http://status.fediservices.nz/public-dashboards/9be25c4eee9240d88a0fdc5fb812ba4d"
 
 [[params.social]]
 key = 6
