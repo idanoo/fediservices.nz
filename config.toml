@@ -35,5 +35,10 @@ url = "https://openevents.nz"
 
 [[params.social]]
 key = 5
+name = "Stats"
+url = "https://stats.fediservices.nz/public-dashboards/585e294c4aaf492ba1351b7de489363c?orgId=1"
+
+[[params.social]]
+key = 6
 name = "Donate"
 url = "https://donate.fediservices.nz"
