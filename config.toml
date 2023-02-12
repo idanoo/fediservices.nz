@@ -1,0 +1,39 @@
+baseURL = 'https://fediservices.nz/'
+languageCode = 'en-us'
+title = 'fediservices.nz'
+theme = 'nightfall'
+
+[params]
+author = "FediServices.nz"
+user = "hello"
+hostname = "fediservices.nz"
+
+[[params.social]]
+key = 0
+name = "Mastodon.nz"
+url = "https://mastodon.nz"
+
+[[params.social]]
+key = 1
+name = "Pixelfed"
+url = "https://pixelfed.nz"
+
+[[params.social]]
+key = 2
+name = "PeerTube"
+url = "https://peertube.nz"
+
+[[params.social]]
+key = 3
+name = "Matrix"
+url = "https://mtrx.nz"
+
+[[params.social]]
+key = 4
+name = "Mobilizon"
+url = "https://openevents.nz"
+
+[[params.social]]
+key = 5
+name = "Donate"
+url = "https://donate.fediservices.nz"
