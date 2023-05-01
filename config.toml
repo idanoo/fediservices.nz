@@ -45,10 +45,15 @@ url = "https://calckey.nz"
 
 [[params.social]]
 key = 7
-name = "Status"
-url = "http://status.fediservices.nz"
+name = "FediRelay"
+url = "https://relay.fediservices.nz"
 
 [[params.social]]
 key = 8
+name = "Status"
+url = "https://status.fediservices.nz"
+
+[[params.social]]
+key = 9
 name = "Donate"
 url = "https://donate.fediservices.nz"
