@@ -20,40 +20,45 @@ url = "https://pixelfed.nz"
 
 [[params.social]]
 key = 2
-name = "PeerTube.nz"
-url = "https://peertube.nz"
-
-[[params.social]]
-key = 3
-name = "Mtrx.nz"
-url = "https://mtrx.nz"
-
-[[params.social]]
-key = 4
-name = "BookWorm.nz"
-url = "https://bookworm.nz"
-
-[[params.social]]
-key = 5
-name = "OpenEvents.nz"
-url = "https://openevents.nz"
-
-[[params.social]]
-key = 6
 name = "Calckey.nz"
 url = "https://calckey.nz"
 
 [[params.social]]
+key = 3
+name = "Write.nz"
+url = "https://write.nz"
+
+[[params.social]]
+key = 4
+name = "PeerTube.nz"
+url = "https://peertube.nz"
+
+[[params.social]]
+key = 5
+name = "BookWorm.nz"
+url = "https://bookworm.nz"
+
+[[params.social]]
+key = 6
+name = "Mtrx.nz"
+url = "https://mtrx.nz"
+
+[[params.social]]
 key = 7
+name = "OpenEvents.nz"
+url = "https://openevents.nz"
+
+[[params.social]]
+key = 8
 name = "FediRelay"
 url = "https://relay.fediservices.nz"
 
 [[params.social]]
-key = 8
+key = 9
 name = "Status"
 url = "https://status.fediservices.nz"
 
 [[params.social]]
-key = 9
+key = 10
 name = "Donate"
 url = "https://donate.fediservices.nz"
