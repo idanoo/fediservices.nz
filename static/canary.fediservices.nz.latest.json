@@ -1,0 +1,46 @@
+{
+    "version": "0.1",
+    "canary": {
+        "domain": "fediservices.nz",
+        "min_signers": 1,
+        "pubkeys": [
+            {
+                "role": "author",
+                "name": "author",
+                "key": "Z1xcguwtXYkcPmoA3iZjBadnxugX0+bf7fqWzXnN/Jk=",
+                "required": true
+            }
+        ],
+        "panickey": "KMg/rBQc4sANRMsXyv5+woNZqSz/nmaKMn+SNTHBodw=",
+        "release": "2023-05-11T18:43:35+12:00",
+        "expiry": "2023-06-10T18:43:35+12:00",
+        "freshness": "00000000000000000001ef811147c2d95822aa8165efcad81db987921e44c537",
+        "codes": [
+            "subp",
+            "cease",
+            "raid",
+            "xopers",
+            "war",
+            "gag",
+            "trap",
+            "duress",
+            "seize",
+            "xcred"
+        ],
+        "mirrors": null
+    },
+    "signatures": {
+        "Z1xcguwtXYkcPmoA3iZjBadnxugX0+bf7fqWzXnN/Jk=": {
+            "domain": "B9pSFOKcd4WZ+PIxMfq3T/ETQmygKYm7htca2K7RXhnL1eMyKUwk4npjb9VJaBybt+sqvlVmKe2BfeawFK44DQ==",
+            "min_signers": "J7VG3nTaA71gfYjsvizAt/7nY9GaSaCqtk/gCdY/AClmHcHOTHBh3B29v7bOFDn1J41uQ0AM0QFjQvbNd4iwDw==",
+            "pubkeys": "kwHXkvrKD0T1LDtqJXHiHVWKwZ81AjD+owHOqyhYVfMYndHEbfhNRxy03OTknI5eFasIimlU/pgAOqRin3i1Bg==",
+            "panickey": "6yjdTiN6Pm6y4OGiO+I+tuZ0rJG3n0bWF4hBDJCAfq6Y4cy/I8tyUyzGZjfLbpNyFJYuV0vU/+Ntdl2JV6giBw==",
+            "version": "JrJMaCh03fB1B9Wm76Q7pgl5Ytqvg8fcSi9UAiZbLSAjrPAkFvGo9BOoBh4BuUK/PKRd3gJmbBrITHFnM4DeDw==",
+            "release": "UCZu9GaRJMA/OD31wIcA6NLWSpqBQu8uugnFqkntZPfDI1bX0K5l1ZlUch+Ua0byLl03d9oGqpXNT7zGUqA3DQ==",
+            "expiry": "tAGXj69SeuG53AbRxqa5kTtb+b0/4Hvdrp0wafTXm8b/cDx9gbaY90rYYLabAXmWvNSzxNXLOpQqQ/2mTHSOBw==",
+            "freshness": "BB3n/hTEeB6xJC9Fa4z5tLhfXiMWmjdC0Rf5XC+2fzLnYv5hgzpuXQAiUHzZ/iPrctyscDVKyJfW0MIDoCKlCg==",
+            "codes": "5+8BV+BQ9wJwlLoJa4INilp1V2Sr1HbaWMwJhOB4m3IArn4kzkDPGbIoi9kYymeqECsGApFYTaMepC+lOZ2wDQ==",
+            "mirrors": "bQu7f0DUH8CdHiwXPeq6Gz4Ujld4zwbHPpxLEzUX8D2YxJpYolxoVAJpJCTP7JNWAdXc1g5aley4EP6LBFAQCg=="
+        }
+    }
+}
